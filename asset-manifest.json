@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HeartCharityK/static/css/main.e6c13ad2.css",
+    "main.js": "/HeartCharityK/static/js/main.a313574b.js",
+    "static/js/787.1f11dfe9.chunk.js": "/HeartCharityK/static/js/787.1f11dfe9.chunk.js",
+    "index.html": "/HeartCharityK/index.html",
+    "main.e6c13ad2.css.map": "/HeartCharityK/static/css/main.e6c13ad2.css.map",
+    "main.a313574b.js.map": "/HeartCharityK/static/js/main.a313574b.js.map",
+    "787.1f11dfe9.chunk.js.map": "/HeartCharityK/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a313574b.js"
+  ]
+}
